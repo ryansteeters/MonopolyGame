@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Ryan\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
